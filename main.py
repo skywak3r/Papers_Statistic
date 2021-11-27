@@ -78,7 +78,46 @@ def getTitleICML():
         # title_name = title_name.split('.')[0]
         title_list.append(title_name)
     return title_list
-title_list = getTitleICML()
+
+
+
+
+url1 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-program/symposia-tuesday-7-december'
+url2 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-program/symposia-wednesday-8-december'
+url3 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-program/symposia-thursday-9-december'
+url4 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-program/symposia-friday-10-december'
+url5 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-program/symposia-saturday-11-december'
+
+def getTitleGlobeCom2021(url):
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    wd = webdriver.Chrome(executable_path=r"D:\install_dir\code\webTest\chromedriver.exe",
+                          chrome_options=chrome_options)
+    wd.get(url)
+    element_span = wd.find_elements_by_class_name("papertitle ")
+    title_list = []
+
+    for i in tqdm(range(len(element_span))):
+        title = element_span[i].text
+        title_list.append(title)
+    return title_list
+
+
+title_list1 = getTitleGlobeCom2021(url1)
+title_list2 = getTitleGlobeCom2021(url2)
+title_list3 = getTitleGlobeCom2021(url3)
+title_list4 = getTitleGlobeCom2021(url4)
+title_list5 = getTitleGlobeCom2021(url5)
+
+
+title_list = title_list1+title_list2+title_list3+title_list4+title_list5
+
+
+
+
+# title_list = getTitleICML()
 
 # title_list = getTitle()
 

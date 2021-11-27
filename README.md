@@ -9,7 +9,11 @@ This is a statistic of keyword of GLOBECOM 2020.
 
 ![Figure_4](figure/statistic2_ICML2021.png)
 
+## GLOBECOM 2021 
 
+![Figure_5](figure/Figure1_GlobeCom2021.png)
+
+![Figure_6](figure/Figure2_GlobeCom2021.png)
 
 [Rename rep](https://www.coonote.com/git-note/git-rename-github-push.html)
 
