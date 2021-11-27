@@ -9,7 +9,13 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
+
+
 def getTitle():
+    """
+    globecom's get title
+    :return:
+    """
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
@@ -46,8 +52,37 @@ def getTitle():
         title_list.append(title_name)
     return title_list
 
+def getTitleICML():
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    url = 'https://icml.cc/Conferences/2021/AcceptedPapersInitial'
+    wd = webdriver.Chrome(executable_path=r"D:\install_dir\code\webTest\chromedriver.exe",
+                          chrome_options=chrome_options)
+    wd.get(url)
 
-title_list = getTitle()
+    meta_list = []
+    wait_time = 0.5
+    max_try = 1000
+
+    title_list = []
+    total = 1186
+    element_span = wd.find_elements_by_xpath("/html/body/div[2]/ul/li[3]/cite")
+    path = '/html/body/div[5]/div/main/div/div/div[3]/div[1186]/div/div[3]'
+    for i in tqdm(range(4, total)):
+        # title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div/div/div[3]/div[%i]/div/div[3]" % i)[0].text.split("\n")[1]
+        title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div/div/div[3]/div[%i]/div/div[3]" % i)[0].text
+        # print(title_name)
+        # print(i)
+        # title_name = title_name.split('.')[0]
+        title_list.append(title_name)
+    return title_list
+title_list = getTitleICML()
+
+# title_list = getTitle()
+
+
 
 
 import nltk
