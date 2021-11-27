@@ -117,7 +117,7 @@ ax.invert_yaxis()
 for i, v in enumerate(value):
     ax.text(v + 3, i + .25, str(v), color='black', fontsize=10)
 ax.set_xlabel('Frequency')
-ax.set_title('NeurIPS 2020 Submission Top {} Keywords'.format(num_keyowrd))
+ax.set_title('GLOBECOM 2020 Submission Top {} Keywords'.format(num_keyowrd))
 
 plt.show()
 
