@@ -11,5 +11,7 @@ This is a statistic of keyword of GLOBECOM 2020.
 
 
 
+[Rename rep](https://www.coonote.com/git-note/git-rename-github-push.html)
+
 Inspired by [NeurIPS-2020-Paper-Statistics](https://github.com/hoya012/NeurIPS-2020-Paper-Statistics)
 
