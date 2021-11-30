@@ -1,0 +1,914 @@
+  Cooperative Spectrum Sharing in a Co-existing LEO-GEO Satellite System 
+   Multi-RAT Multicast 360° Video Delivery 
+   Efficient Confidentiality for Network Coded Distributed Storage 
+   IoT-based Contact Tracing Systems for Infectious Diseases: Architecture and Analysis 
+   On the Performance of SWIPT MEC Systems in the Presence of Spatially Correlated Shadowing 
+   Sparse Channel Reconstruction With Nonconvex Regularizer via DC Programming for Massive MIMO Systems 
+   Cache Management in Information-Centric Networks using Convolutional Neural Network 
+   Joint Passive Beamforming and Information Transfer for RIS-Empowered Wireless Communications 
+   Secure Multiple-Mode OFDM With Index Modulation 
+   Cryptanalysis of FNV-Based Cookies 
+   Blockchain-Based Programmable Fog Architecture for Future Internet of Things Applications 
+   A Bilingual Multi-type Spam Detection Model Based on M-BERT 
+   Impact of Node Churn in the Bitcoin Network with Compact Blocks 
+   Signal Phase and Timing by a Vehicular Cloud 
+   Ranging Estimation Error in WiFi Devices Running IEEE 802 
+   Channel Feedback for Reconfigurable Intelligent Surface Assisted Wireless Communications 
+   Joint Base Station-IRS-User Association in Multi-IRS-Aided Wireless Network 
+   Outage Constrained Transmission Design for IRS-aided Communications with Imperfect Cascaded Channels 
+   Cooperative Beamforming for Large Intelligent Surface Assisted Symbiotic Radios 
+   Customized Transmission Schemes based on Marine Data Collection Characteristics 
+   Downlink OFDMA with DFT-Precoding for Tera-Hertz Communications 
+   Theoretical and Simulation-based Analysis of Terrestrial Interference to LEO Satellite Uplinks 
+   Connection Density Enhancement of Backscatter Communication Systems with Relaying 
+   A coding approach to localization using landmarks 
+   Self Organizing Feature Map-Integrated Knowledge-Based Deep Network Against Fake Crowdsensing Tasks 
+   On the Energy Consumption and Ranging Accuracy of Ultra-Wideband Physical Interfaces 
+   Anchor-Assisted Intelligent Reflecting Surface Channel Estimation for Multiuser Communications 
+   Resource Allocation for Intelligent Reflecting Surface Aided Cooperative Communications 
+   A Fibre Embroidered Chipless RFID Tag on Cotton Fabrics for Wearable Applications 
+   Modeling and Security Analysis of IEEE 802 
+   MAC Protocol for Multi-channel Heterogeneous Networks Based on Deep Reinforcement Learning 
+   A Method Aware of Concept Drift for Online Botnet Detection 
+   Accelerating Partitioned Edge Learning via Joint Parameter-and-Bandwidth Allocation 
+   Multi-Constraint Virtual Network Embedding Algorithm For Satellite Networks 
+   Throughput-Outage Analysis of Cache-Aided Wireless Multi-Hop D2D Networks 
+   ECEM - Generating Adversarial Logs under Black-box Setting in Web Security 
+   eHealth Solution for Cancer Patients Rehabilitation enabled by Optical Fiber Sensors 
+   Throughput and Capacity Evaluation of 5G New Radio Non-Terrestrial Networks with LEO Satellites 
+   A Splitting-Detection Joint-Decision Receiver for Ultrasonic Intra-Body Communications 
+   Short Frame Structure Optimization for Industrial IoT with Heterogeneous Traffic and Shared Pilot 
+   Spatio-temporal Spectrum Load Prediction using Convolutional Neural Network and Bayesian Estimation 
+   MCMC Decoding of LDPC Codes with BP Preprocessing 
+   Intelligent Reflecting Surface-Aided Backscatter Communications 
+   Optimally Supporting IoT with Cell-Free Massive MIMO 
+   Cloud Storage Forensics: BaiduNetDisk, WeiYun, and 115yun on a Wireless Network 
+   Interference Modeling and Mutual Information Maximization Over 6G THz Wireless Ad-Hoc Nano-Networks 
+   Decoding Polar Codes with Reinforcement Learning 
+   Block-RAS: A P2P Resource Allocation Scheme in 6G Environment with Public Blockchains 
+   Resource Allocation In IRSs Aided MISO-NOMA Networks: A Machine Learning Approach 
+   Distributed and Accurate Packet Reception Rate Estimation under Cross-Technology Interference 
+   A Fast Item Identification and Counting in Ultra-dense Beacon Networks 
+   Deep Learning Detection for superimposed control signal in LEO-MIMO 
+   Stochastic Modeling of Opportunistic Routing in Multi-Modal Internet of Underwater Things 
+   AoI Minimization for Grant-Free Massive Access with Short Packets using Mean-Field Games 
+   Joint Sociality and Load Balance for Proactive Caching in Wireless Networks 
+   Max-Min Fairness in IRS-Aided MISO Broadcast Channel via Joint Transmit and Reflective Beamforming 
+   Intelligent Reflective Surface Aided Multi-Way Communications 
+   Progressive Slicing for Application Identification in Application-Specific Network Slicing 
+   Integrating Cellphone-based Hardware Wallet with Visional Certificate Verification System 
+   Blind SINR Estimation Based on Graph Sparsity 
+   Age-of-Information-based Scheduling in Multiuser Uplinks with Stochastic Arrivals: A POMDP Approach 
+   Cellular Network Caching Based on Multipoint Multicast Transmissions 
+   Transmit Power Minimization for Secure Short-packet Transmission in a Mission-Critical IoT Scenario 
+   Coherent Chirp Generation by Narrowband Transceiver Chips for ToF Indoor Localization 
+   Towards Cross-Domain Service Function Chain Orchestration 
+   INT-filter: Mitigating Data Collection Overhead for High-Resolution In-band Network Telemetry 
+   GPS Spoofing Detector with Adaptive Trustable Residence Area for Cellular based-UAVs 
+   4G LTE Network Data Collection and Analysis along Public Transportation Routes 
+   Joint Learning of Probabilistic and Geometric Shaping for Coded Modulation Systems 
+   Exploring the Benefits of Memory-Limited Fulcrum Recoding for Heterogeneous Nodes 
+   Multiple Backup Resource Allocation with Workload-Dependent Failure Probability 
+   QoS-aware Reinforcement Learning for Multimedia Traffic Scheduling in Home Area Networks 
+   Cache-Aided Modulation for Heterogeneous Coded Caching over a Gaussian Broadcast Channel 
+   Learning-Based Network Boolean Tomography for Identifying Congested Links with Correlations 
+   A Variational Autoencoder-Based Secure Transceiver Design Using Deep Learning 
+   Sparse Satellite Constellation Design for LoRa-based Direct-to-Satellite Internet of Things 
+   SSMP: Server Selection for Multipath TCP in CDN Environments 
+   Migration Aware Virtual Network Function Placing and Routing in Uncertain Environment 
+   An overview on IoUT and the performance of WiFi low-cost nodes for IoUT Applications 
+   Combining Deep Learning and Linear Processing for Modulation Classification and Symbol Decoding 
+   Delay-sensitive and Priority-aware Task Offloading for Edge Computing-assisted Healthcare Services 
+   Experimental Evaluation on IEEE 802 
+   Learning Constellation Map with Deep CNN for Accurate Modulation Recognition 
+   Exploiting Local and Cloud Sensor Fusion in Intermittently Connected Sensor Networks 
+   Vehicular Multi-slice Optimization in 5G: Dynamic Preference Policy using Reinforcement Learning 
+   Outage Analysis of Myopic Multi-hop Relaying: A Markov Chain Approach 
+   Physical-Layer Security for Cognitive Radio Networks over Cascaded Rayleigh Fading Channels 
+   Extremal Network Theory and Robust GDoF Gain of Multi-Cell Cooperation over Multi-Cell TIN 
+   Covariance-Based Cooperative Activity Detection for Massive Grant-Free Random Access 
+   WideScan: Exploiting Out-of-Band Distortion for Device Classification Using Deep Learning 
+   A Reconstruction-Computation-Quantization (RCQ) Approach to Node Operations in LDPC Decoding 
+   MEP-PSO Algorithm-Based Coverage Optimization in Directional Sensor Networks 
+   COVID-19 Vulnerability Map Construction via Location Privacy Preserving Mobile Crowdsourcing 
+   Geo-Indistinguishablility for Crowdsourced-Based Radio Environment Map Construction 
+   Fingerprinting-Based Indoor Localization with Commercial MMWave WiFi: NLOS Propagation 
+   On the Stability of RSRP and Variability of Other KPIs in LTE Downlink - An Open Dataset 
+   Super-Resolution Based Fingerprint Augment for Indoor WiFi Localization 
+   Communicating over the Torn-Paper Channel 
+   On Latency For Non-Scheduled Traffic in TSN 
+   Synthesizing Datasets with Security Threats for Vehicular Ad-Hoc Networks 
+   The Best of Both Worlds: Hybrid Data-Driven and Model-Based Vehicular Network Simulation 
+   Performance Analysis of 4×4 TDD-SVD-MIMO System in Suburban Field Trial 
+   UnRest: Underwater Reliable Acoustic Communication for Multimedia Streaming 
+   METRE: Measurement Task Recommendation for Energy-Efficient Handover in Dense Networks 
+   Joint Management of Communicating and Computing Resources in Sliced 5G Networks 
+   Exploiting Correlation Between Wideband and Differential CQIs for Adaptation and Feedback 
+   Learning to Beamform for Intelligent Reflecting Surface with Implicit Channel Estimate 
+   Geometric Analysis-Based Cluster Head Selection for Sectorized Wireless Powered Sensor Networks 
+   Data-driven Privacy With Domain Regularization 
+   Estimating Indoor Human Speed via Radio Signals 
+   Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing 
+   Hybrid data and model driven algorithms for angular power spectrum estimation 
+   Multi-Armed Bandit Load Balancing User Association in 5G Cellular HetNets 
+   HIRE: Hidden Inter-packet Red-shift Effect 
+   Adaptive Extraction-Based Independent Component Analysis for Time-Sensitive Applications 
+   A Hierarchical Hybrid Intrusion Detection Approach in IoT Scenarios 
+   Simultaneous Multi-Channel Downlink Operation in Next Generation WLANs 
+   Botnet Detection Using Recurrent Variational Autoencoder 
+   Impact of Limited Hop Count on Connectivity of Millimeter Wave Networks 
+   Minimizing Delay Violation Probability in URLLC over Fading Channels: A Cross-Layer Approach 
+   Modeling and Minimizing Latency in Three-tier V2X Networks 
+   Topology Poisoning Attacks and Countermeasures in SDN-enabled Vehicular Networks 
+   A Practical Black-Box Attack Against Autonomous Speech Recognition Model 
+   Stochastic Geometry-Based Modeling and Analysis of Beam Management in 5G 
+   System Analysis of State-Aware Resource Allocation for Closed-Loop Control Systems 
+   Wireless energy supply scheduling strategy in a combined border surveillance architecture 
+   DNN-based Localization from Channel Estimates: Feature Design and Experimental Results 
+   Residential Appliance-Level Load Forecasting with Deep Learning 
+   A Novel IoT-Aware WLAN Environment Identification for Efficient Internet-Wide Port Scan 
+   Deep Over-the-Air Computation 
+   Energy-aware Multi-RAT Multicast Video Delivery 
+   Joint Resource Allocation Optimization Over Energy Harvesting Based 6G THz-Band Big-Data-Driven Nano-Networks 
+   Online Intra-domain Segment Routing for Software-defined CubeSat Networks 
+   Simplified Decoding of Polar Codes by Identifying Reed-Muller Constituent Codes 
+   Polar Coding with Chemical Reaction Networks for Molecular Communications 
+   Correlated Participation Decision Making for Federated Edge Learning 
+   Generalized SCL-Flip Decoding of Polar Codes 
+   Rethinking Maximum Flow Problem and Beamforming Design through Brain-inspired Geometric Lens 
+   Neural Combinatorial Optimization for Throughput Maximization in IRS-Aided Systems 
+   Cooperative Resource Allocation in Integrated Terrestrial/Non-Terrestrial 5G and Beyond Networks 
+   Age-Oriented Opportunistic Relaying in Cooperative Status Update Systems with Stochastic Arrivals 
+   A User-Centric Frequency Reuse in Non-full Interference Cellular Networks 
+   Networking Performance of Power Optimized C+L+S Multiband Transmission 
+   Distributionally Robust Chance-Constrained Optimization for Communication and Offloading in WBANs 
+   A Defense Mechanism for Timing-based Side-Channel Attacks on IoT Traffic 
+   Safe Driving Protocol at Special Stop Sign Intersections (D-SSS) 
+   Real Time Stream Mining based Attack Detection in Distribution Level PMUs for Smart Grids 
+   Advanced Learning Architectures And Spatial Statistics For Beam Selection With Multi-Path 
+   Joint Visual and Wireless Signal Feature based Approach for High-Precision Indoor Localization 
+   Cluster based Deep Reinforcement Learning for Wireless Caching with Social Connection Awareness 
+   C-ITS communications based on BLE messages 
+   Privacy Aware Contact Tracing by Exploiting Social Networks in Viral Disease Outbreaks 
+   A Data-driven Approach to Optimize Bounds on the Capacity of the Molecular Channel 
+   A 1/2-Approximation Algorithm for Target Coverage Problem in Mobile Air Quality Monitoring Systems 
+   A Bluetooth App-based Self-estimated Infection Model for Airborne-based Epidemic Diseases 
+   Multiple Access for Massive MIMO-OTFS Networks over Angle-Delay-Doppler Domain 
+   Analysis of Tree-Algorithms with Multi-Packet Reception 
+   UniTag: Enabling Multi-frequency Backscatter 
+   Multi-Laser Based Cooperative Scanning for AUV Acquisition Over UWOC Networks 
+   Collisionless Fast Pattern Formation Mechanism for Dynamic Number of UAVs 
+   Trajectory Optimization for UAV-to-Device Underlaid Cellular Networks by Mean-Field-Type Control 
+   Reconfigurable Intelligent Surface Assisted D2D Networks: Power and Discrete Phase Shift Design 
+   Evaluating and Improving Adversarial Attacks on DNN-Based Modulation Recognition 
+   Deep Learning-based Signal Strength Prediction Using Geographical Images and Expert Knowledge 
+   Distributed Long-Horizon Vehicle Scheduling for Traffic Intersection with Delayed Information 
+   Crowdfunding with Cognitive Limitations 
+   Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers 
+   An Electric Vehicle Charging Reservation Approach Based on Blockchain 
+   On the Parallel Reconfiguration of Virtual Networks in Hybrid Optical/Electrical Datacenter Networks 
+   V2X Enabled Non-Signalized Intersections Management: A Function Approximation Approach 
+   Enabling Magnetic Beamforming in MIMO Wireless Power Transfer Using Reconfigurable Metasurface 
+   Deep Neural Network-Based Symbol Detection for Highly Dynamic Channels 
+   Deep Reinforcement Learning Based Relay Selection in Delay-Constrained Secure Buffer-Aided CRNs 
+   Joint Task Offloading and Resource Allocation for Mobile Edge Computing in Ultra-Dense Network 
+   Artificial Intelligence Assisted Collaborative Edge Caching in Small Cell Networks 
+   Novel Multiuser Indoor Ultraviolet Communications 
+   Cross-Layer Analysis for Symbiotic Internet of Things Over CSMA/CN Networks 
+   An Enhanced Motif Graph Clustering-Based Deep Learning Approach for Traffic Forecasting 
+   Progressive Channel Estimation and Passive Beamforming for RIS-Assisted OFDM Systems 
+   DeepSlicing: Deep Reinforcement Learning Assisted Resource Allocation for Network Slicing 
+   Low-Complexity Dimensionality Reduction for Big Data Analytics in the Smart Grid 
+   Energy-Efficient and QoS-Improved D2D Small Cell Deployment for Smart Grid 
+   HPNet: A Compressed Neural Network for Robust Hybrid Precoding in Multi-User Massive MIMO Systems 
+   Unlicensed Spectrum Sharing with WiGig in Millimeter-wave Cellular Networks in 6G Era 
+   Joint Analog Beamforming and Jamming optimization for Covert Millimeter Wave Communications 
+   SRA: Switch Resource Aggregation for Application Offloading in Programmable Networks 
+   A Novel Internet-of-Vehicles Assisted Collaborative Low-visible Pedestrian Detection Approach 
+   Deep Unfolded Multicast Beamforming 
+   Benchmarking End-to-end Learning of MIMO Physical-Layer Communication 
+   Robust Symbol-Synchronization for OFDM Smart-Grid Wireless Neighborhood Area Networks With SαS Noise 
+   FAST: Flexible and Low-latency State Transfer in Mobile Edge Computing 
+   Sybil Detection as Graph Filtering 
+   BER Analysis of a NOMA Enhanced Backscatter Communication System 
+   Exploiting Diffuse Multipath in 5G SLAM 
+   Deep CSI Compression and Coordinated Precoding for Multicell Downlink Systems 
+   Adaptive Batchsize Selection and Gradient Compression for Wireless Federated Learning 
+   A Game-Theoretic Approach to Achieving Bilateral Privacy-Utility Tradeoff in Spectrum Sharing 
+   Continual Information Cascade Learning 
+   Semi-Persistent Scheduling for 5G Downlink Based on Short-Term Traffic Prediction 
+   Power Allocation Based on Deep Reinforcement Learning in HetNets with Varying User Activity 
+   Novel Visible Light Communication Assisted Perspective-Four-Line Algorithm for Indoor Localization 
+   The IEEE P1918 
+   Spectrum Sharing Strategies for UAV-to-UAV Cellular Communications 
+   Making Transaction Propagation More Efficient: Deferred Transaction Relay in Bitcoin 
+   F-RouND: Fog-based Rogue Nodes Detection in Vehicular Ad hoc Networks 
+   Learning-Based Cooperative Spectrum Sensing in Hybrid Underlay-Interweave Secondary Networks 
+   Efficient and Privacy-preserving Outsourced Image Retrieval in Public Clouds 
+   FHPT: Fine-Grained EHR Sharing in E-Healthcare Cloud with Hidden Policy and Traceability 
+   Bayesian-based channel quality estimation method for LoRaWAN with unpredictable interference 
+   Impact of Base Station Antenna Tilt Angle on UAV Communications 
+   State Aggregation for Multiagent Communication over Rate-Limited Channels 
+   Reinforcement Learning for Minimizing Age of Information under Realistic Physical Dynamics 
+   A Novel CFAR Algorithm for Multi-target Detection with FMCW Radar 
+   Full-Duplex MIMO Systems with Hardware Limitations and Imperfect Channel Estimation 
+   Optimization of IoT Service Deployment In Multi-Layered Cloud-Fog Environment 
+   On the Design of Generalized LDPC Codes with Component BCJR Decoding 
+   ACB scheme based on reinforcement learning in M2M communication 
+   Decentralized Incentive Mechanism for Cooperative Content Dissemination in Vehicular Networks 
+   Bayesian Online Learning for MEC Object Recognition Systems 
+   Proactive Autoscaling for Cloud-Native Applications using Machine Learning 
+   Enhanced Beam Alignment for Millimeter Wave MIMO Systems: A Kolmogorov Model 
+   Partially Observable Multi-Agent Deep Reinforcement Learning for Cognitive Resource Management 
+   On the Performance of Reconfigurable Intelligent Surface-Aided Cell-Free Massive MIMO Uplink 
+   Fingerprint Localization Method for Leader-follower Satellite Cluster based on Dynamic Radio Map 
+   FSC: Two-Scale AI-Driven Fair Sensitivity Control for 802 
+   On the Latency of IEEE 802 
+   Resource Allocation for Wireless Federated Edge Learning based on Data Importance 
+   Wireless Control of Autonomous Guided Vehicle Using Reinforcement Learning 
+   Application of Graph Theory in IoT for Optimization of Connected Healthcare System 
+   Outage Analysis for Intelligent Reflecting Surface Assisted Vehicular Communication Networks 
+   Blockchain-Supported Federated Learning for Trustworthy Vehicular Networks 
+   Channel Access Enhancements in unlicensed spectrum for NR URLLC transmissions 
+   Joint Beamforming and Power Allocation in Millimeter-Wave High-Speed Railway Systems 
+   Low Margin QoT-Aware RMLSA with Circuit Invigoration in Elastic Optical Networks 
+   Resource Allocation of URLLC and eMBB Mixed Traffic in 5G Networks: A Deep Learning Approach 
+   A Mobility-Predict-based Forwarding Strategy in Vehicular Named Data Networks 
+   Generalized Expanded-Blaum-Roth Codes and Their Efficient Encoding/Decoding 
+   LOS Delay Estimation using Super Resolution Deep Neural Networks for Precise Positioning 
+   Autonomous and Privacy-preserving Energy Trading Based on Redactable Blockchain in Smart Grid 
+   A Pricing-based Joint Scheduling of Pushing and On-demand Transmission Over Shared Spectrum 
+   Privacy-Friendly Decentralized Data Aggregation For Mobile Crowdsensing 
+   Angle Partition-Based TDMA for VDES Satellite Multiuser Downlink Communications 
+   Cooperative Sensing and Task Offloading for Autonomous Platoons 
+   Resource Allocation in 5G with NOMA-Based Mixed Numerology Systems 
+   Hierarchical Cooperative Caching in Fog Radio Access Networks: A Brain Storm optimization Approach 
+   Deep CNN-Based Spherical-Wave Channel Estimation for Terahertz Ultra-Massive MIMO Systems 
+   Deep Reinforcement Learning for RIS-Aided Non-Orthogonal Multiple Access Downlink Networks 
+   Stealthy DGoS Attack under Passive and Active Measurements 
+   Reliability-based Formation of Cloud Federations Using Game Theory 
+   Backhaul Reliability Analysis on Cluster-Based Transmit Diversity Schemes in Private Networks 
+   Oversampling Algorithm based on Reinforcement Learning in Imbalanced Problems 
+   Slice Reconfiguration Based on Demand Prediction with Dueling Deep Reinforcement Learning 
+   Energy Concealment based Compressive Sensing Encryption for Perfect Secrecy for IoT 
+   A Reinforcement Learning Framework for QoS-Driven Radio Resource Scheduler 
+   Approximated EM Algorithms for Estimation of Unknown Coded Discrete Memoryless Channels 
+   Optimal Functional Split for Processing Sharing based CoMP for Mixed eMBB and uRLLC Traffic 
+   Service Scheduling and Resource Allocation for Big Data Transfer in Elastic Optical Network 
+   Empirical Study and Enhancement of Association and Long Sleep in 802 
+   Griffin: An Ensemble of AutoEncoders for Anomaly Traffic Detection in SDN 
+   Delay-Optimal Edge Cache Replacement with Non-Markovian Content Fetching 
+   Gaussian Models for CSI Fingerprinting in Practical Indoor Environment Identification 
+   Learning for Path Planning and Coverage Mapping in UAV-Assisted Emergency Communications 
+   Toward an approach for securing IMS signaling and media planes 
+   NDA Timing Estimation with 1-bit Quantization and Oversampling at the Receiver 
+   On the Age of Information in Internet of Things Systems with Correlated Devices 
+   Adversarial Learning-based Bias Mitigation for Fatigue Driving Detection in Fair-Intelligent IoV 
+   Minimizing NOMA Resource Usage for Cellular IoT Networks through Distributed Source Coding 
+   Robust Nonlinear Interference Cancellation with Time Alignment Error in Full-Duplex Systems 
+   Meta-Learned User Preference for Topic Participation Prediction 
+   Channel Gain Cartography via Mixture of Experts 
+   Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise 
+   ESTS: Energy Stimulated Time Synchronization for Energy Harvesting Wireless Networks 
+   A Joint SLNR-MMSE-based Adaptive Secure Transmission Technique for Broadband IoT Systems 
+   High Frequency Impedance Matching for Twisted Pair Cables 
+   Asymptotic Analysis and Power Control optimization for Wirelessly Powered Cell-free IoT 
+   Two-Timescale Optimization for Intelligent Reflecting Surface Aided D2D Underlay Communication 
+   Deep Reinforcement Learning based Node Pairing Scheme in Edge-chain for IoT Applications 
+   Efficient Deep Structure Learning for Resource-Limited IoT Devices 
+   A Hybrid NOMA/OMA Scheme for MTC in Ultra-Dense Networks 
+   User Preference Learning-Aided Collaborative Edge Caching for Small Cell Networks 
+   ETSI Multi-Access Edge Computing for Dynamic Adaptive Streaming in Information Centric Networks 
+   A Novel Approach to Enhance the Robustness of LoRa-Like PHY Layer to Synchronization Errors 
+   On the Suitability of RCM-LDGM Codes for Sending High Data Rates over Impulsive Noise Channels 
+   SAC-FIIoT: Secure Access Control Scheme for Fog-Based Industrial Internet of Things 
+   Low-Complexity Iterative Soft-output Demodulation for Hierarchical Quadrature Amplitude Modulation 
+   Blind Timing Synchronization for DCO-OFDM VLC Systems 
+   Generalized User Grouping in NOMA Based on Overlapping Coalition Formation Game 
+   5G NR-U: Homogeneous Coexistence Analysis 
+   Cooperative Jamming Power Allocation With Frequency Offset in Physical Layer Security 
+   Uplink Reference Signal Based Handover with Mobile Relay Node Assisted User Clustering 
+   Optimal preemptive retransmission strategy for URLLC in unlicensed spectrum 
+   Characterizing IOTA Tangle with Empirical Data 
+   Data Pricing for Blockchain-based Car Sharing: A Stackelberg Game Approach 
+   A Task Allocation Framework for Large-Scale Mobile Edge Computing 
+   Deep Reinforcement Learning Based Resource Management for DNN Inference in IIoT 
+   Full-Duplex AF MIMO Relaying: Impairments Aware Design and Performance Analysis 
+   Iterative Receiver with a Lattice-Reduction-Aided MIMO Detector for IEEE 802 
+   Cooperative path planning of a UAV swarm to meet temporal-spatial user demands 
+   Physical Layer Secrecy and Transmission Resiliency of Device-to-Device Communications 
+   An Analytical Study of Low Energy Monitoring Networks for Large-Scale Data Centers 
+   Optimal Communication-Computing-Caching for Maximizing Revenue in UAV-Aided Mobile Edge Computing 
+   Instantaneous Load-Based User Association in Multi-Hop IAB Networks using Reinforcement Learning 
+   Routing and Packet Scheduling in LoRaWANs-EPC Integration Network 
+   Binary Indicated Numbers with Bit-Level Integrated Scalability Support (BINBLISS) 
+   An Efficient Dynamic Rule Placement for Distributed Firewall in SDN 
+   UAV Path Planning for Wireless Data Harvesting: A Deep Reinforcement Learning Approach 
+   A Built-in Hash Permutation Assisted Cross-layer Secure Transport in End-to-End FlexE over WDM Networks 
+   Optimal Navigation Control Design for Biomedical Untethered Microrobot with Network-induced Delays 
+   Continuous Multi-objective Zero-touch Network Slicing via Twin Delayed DDPG and OpenAI Gym 
+   Enhancing resource availability in vehicular fog computing through smart inter-domain handover 
+   Security-Aware Resource Sharing in Software Defined Air-Ground Integrated Networks: A Game Approach 
+   Higher Order Derivatives: Improved Pre-Processing and Receivers for Molecular Communications 
+   Hyperbolic User Identity Linkage across Social Networks 
+   Heuristic Optimization Algorithms for QoS Management in UAV Assisted Cellular Networks 
+   Activity-Aware Data Rate Tuning in Wireless Body Area Networks 
+   Topological Coded Distributed Computing 
+   A Selfish Attack on Chainweb Blockchain 
+   Hybrid Vehicular and Cloud Distributed Computing: A Case for Cooperative Perception 
+   DeepIoT: Deep Learning Based Symbol Detection for Spatially Undersampled Internet of Things 
+   Sensing-Transmission Tradeoff for Multimedia Transmission in Cognitive Radio Networks 
+   A Novel Index Modulation for Dimming in LiFi Systems 
+   Directional Delay Spread and Interference Quotient Analysis in sub-7GHz Wi-Fi bands 
+   Trajectory User Linking in C-ITS Data Analysis 
+   MAC Aware Quantization for Distributed Gradient Descent 
+   Root Cause Identification for Road Network Congestion Using the Gradient Boosting Decision Trees 
+   Efficient Online Learning for Cognitive Radar-Cellular Coexistence via Contextual Thompson Sampling 
+   A Uniform Spatial Channel Model for Underwater Wireless Optical Communication Links 
+   User Identification and Channel Estimation by DNN-Based Decoder on Multiple-Access Channel 
+   Stochastic Beamforming for Reconfigurable Intelligent Surface Aided Over-the-Air Computation 
+   Preventing Denial of Service Attacks in IoT Networks through Verifiable Delay Functions 
+   Fingerprinting-based Indoor and Outdoor Localization with LoRa and Deep Learning 
+   Band Assignment in Ultra-Narrowband (UNB) Systems for Massive IoT Access 
+   A Novel Resource Allocation scheme for NOMA-V2X-Femtocell with Channel Aggregation 
+   Cooperative Positioning in Vehicular Networks using Angle of Arrival Estimation through mmWave 
+   Service Chain Rerouting for NFV Load Balancing 
+   A 3-D Wideband Cooperative Massive MIMO GBSM for High-Speed Railway Communication Systems 
+   A Video Popularity Prediction Scheme with Attention-Based LSTM and Feature Embedding 
+   Disaster Protection in Inter-DataCenter Networks leveraging Cooperative Storage 
+   Edge Intelligence Empowered UAVs for Automated Wind Farm Monitoring in Smart Grids 
+   Scheduling Policy and Power Allocation for Federated Learning in NOMA Based MEC 
+   Dynamic Network Slice Assignment in Software-Defined IoT Networks 
+   SWAN: Swarm-Based Low-Complexity Scheme for PAPR Reduction 
+   Distributed Q-Learning-Assisted Grant-Free NORA for Massive Machine-Type Communications 
+   Towards Green Crowdsourced Social Delivery Networks: A Feasibility Study 
+   Divide and conquer-based attack against RPL routing protocol 
+   Doppler Spread Estimation for 5G NR with Supervised Learning 
+   Multi-agent Actor-Critic Reinforcement Learning Based In-network Load Balance 
+   A Novel Channel Model for Reconfigurable Intelligent Surface-assisted Wireless Networks 
+   Auction-Driven Multiuser Beamforming with Deep Learning 
+   CgNet: Predicting Urban Congregations from Spatio-Temporal Data Using Deep Neural Networks 
+   Full-Duplex Destination-Aided Jamming Scheme for SWIPT-Enabled Relay Networks 
+   Efficient Authentication of Drones to mmWave Wireless Mesh Networks in Post-Disaster Scenarios 
+   Massive MIMO: A Measurement-Based Analysis of MR Power Distribution 
+   Towards Ultra-Low-Latency mmWave Wi-Fi for Multi-User Interactive Virtual Reality 
+   RCTC: Rateless Cross-technology Communication 
+   Decentralized SGD with Over-the-Air Computation 
+   A Long-Short-Term Fusion Approach For Video Cache 
+   Optimal Configured Grant Selection Method for NR Rel-16 Uplink URLLC 
+   Molecular Communication over a Non-linear Reaction-Diffusion Medium: A Tractable Model 
+   On the Quality-of-Learning for Haptic Teleoperation-based Skill Transfer over the Tactile Internet 
+   Coding for Resistive Random-Access Memory Channels 
+   Energy-Efficient UAV Deployment and IoT Device Association in Fixed-Wing Multi-UAV Networks 
+   Anomaly Detection and Sampling Cost Control via Hierarchical GANs 
+   Pilot optimization for OFDM-based OTFS Systems over Doubly Selective Channels 
+   Detecting Selective Forwarding using Sentinels in lustered IoT Networks 
+   Deep Learning based Semantic Communications: An Initial Investigation 
+   Service Caching and Computation Resource Allocation for Large-Scale Edge Computing-Enabled Networks 
+   Age of Aggregated Information: Timely Status Update with Over-the-Air Computation 
+   AUV-Aided Hierarchical Information Acquisition System for Underwater Sensor Networks 
+   A Novel Collaborative Filtering Framework Based on Variational Self-Attention GAN 
+   Social-based Cooperation of Vehicles for Data Dissemination of Critical Urban Events 
+   Feedback Prediction for Proactive HARQ in the Context of Industrial Internet of Things 
+   Keep the bursts and ditch the interleavers 
+   UAV mission optimization in 5G: On reducing MEC service relocation 
+   An ICN-based Approach for Service Caching in Edge/Fog Environments 
+   Energy-Efficient Link Selection for Decentralized Learning via Smart Devices with Edge Computing 
+   PST: a More Practical Adversarial Learning-based Defense Against Website Fingerprinting 
+   Incremental Database Based on Distributed Ledger Technology for IDSs 
+   Real-Time Encrypted Traffic Classification via Lightweight Neural Networks 
+   Learning-Based Massive Beamforming 
+   Unsupervised User Identity Linkage via Graph Neural Networks 
+   Performance Analysis of Arbitrary Correlated Multiantenna Receiver for Mobile Cognitive User 
+   LoS/NLoS Detection based Authentication for IoT Systems 
+   Preventing DRDoS Attacks in 5G Networks: a New Source IP Address Validation Approach 
+   Reconfigurable Intelligent Surface Aided Constant-Envelope Wireless Power Transfer 
+   Intelligent Reflecting Surface Assisted MISO Downlink: Channel Estimation and Asymptotic Analysis 
+   Characterizing Power Consumption of Dual-Frequency GNSS of Smartphone 
+   On the Optimal Minimum Distance of Fractional Repetition Codes 
+   Intelligent Reflecting Surface Assisted NOMA Over Fading Channels 
+   Detection of Fall-Related Body Postures from WBAN Signals 
+   Integrating Mission-Centric Impact Assessment to Operational Resiliency in Cyber-Physical Systems 
+   A Framework to Preserve User Privacy for Machine Learning as a Service 
+   Wi-Fi-CSI-based Fall Detection by Spectrogram Analysis with CNN 
+   Capacity of Erasure Broadcast Channels with Single-User Delayed CSI and Common Messages 
+   Sum-Rate Maximization for IRS-Assisted UAV OFDMA Communication Systems 
+   On High-Density Resource-Restricted Pulse-Based IoT Networks 
+   Residual Neural Networks for Digital Predistortion 
+   Meeting Stringent QoS Requirements in IIoT-based Scenarios 
+   Privacy-preserving Computation over Encrypted Vectors 
+   Deep Dynamic Clustering of Spam Reviewers using Behavior-Anomaly-based Graph Embedding 
+   Mobile Edge Computing Network Control: Tradeoff Between Delay and Cost 
+   NANCY: Neural Adaptive Network Coding methodologY for video distribution over wireless networks 
+   A Framework for Neural Network Pruning Using Gibbs Distributions 
+   One-Bit Over-the-Air Aggregation for Communication-Efficient Federated Edge Learning 
+   Cell Zooming for Green Mobile Networks with Vehicle-Mounted Radio Units 
+   Wireless Sensing for Ground Engaging Tools 
+   Directional Modulation for Secure RFID in Health Systems 
+   Bundle-based Channel Estimation for 5G NR with Supervised Learning 
+   AI-Assisted RLF Avoidance for Smart EN-DC Activation 
+   Cross-Technology Interference Mitigation Using Fully Convolutional Denoising Autoencoders 
+   Iterative Power Allocation and Access Point Scheduling in Uplink Cell-Free Massive MIMO Systems 
+   Communication-Channel Optimized Impurity Partition 
+   Mobility Prediction at Points of Interest Using Many-to-one Recurrent Neural Network 
+   Optimal Task Allocation for Time-Varying Edge Computing Systems with Split DNNs 
+   Over-the-Air Statistical Estimation 
+   Delay-Efficient and Reliable Data Relaying in Ultra Dense Networks using Rateless Codes 
+   A Privacy-Preserving Location-Aware and Traffic Order-Based Route Collection Scheme in VANETs 
+   Blocking Email Bombs with EmailGlass 
+   Federated Learning for Cellular-connected UAVs: Radio Mapping and Path Planning 
+   Joint Resource Allocation and Trajectory Optimization with QoS in NOMA UAV Networks 
+   MobiFi: Fast Deep-Learning Based Localization Using Mobile WiFi 
+   Minimizing the Queue-Length-Bound Violation Probability for URLLC: A Cross Layer Approach 
+   BBB: A Lightweight Approach to Evaluate Private Blockchains in Clouds 
+   Average Age of Information of Irregular Repetition Slotted ALOHA 
+   Wearable Magnetic Field Based 3D-Orientation and -Position Acquisition 
+   Adversity-based Social Circles Inference via Context-Aware Mobility 
+   Precise Localization of a UAV with Single Vision Camera and Deep Learning 
+   GCN-TD: A Learning-based Approach for Service Function Chain Deployment on the Fly 
+   Experimental Evaluation of Empirical NB-IoT Propagation Modelling in a Deep-Indoor Scenario 
+   RealSync: A Synchronous Multimodality Media Stream Analytic Framework for Real-Time Communications Applications 
+   Ultra-Dense LEO Satellite Constellation Design for Global Coverage in Terrestrial-Satellite Networks 
+   Towards Network Coding and Request Pipelining Enabled NDN for Big Data Transmission 
+   Collaborative Anomaly Detection in Distributed SDN 
+   Edge Computing Aided Congestion Control using Neuro-Dynamic Programming in NDN 
+   Virtual Network Mapping vs Embedding with Link Protection in Filterless Optical Networks 
+   Downlink Analysis for Reconfigurable Intelligent Surfaces Aided NOMA Networks 
+   Coordinated Container Migration and Base Station Handover in Mobile Edge Computing 
+   Optimal Proactive Caching Placement for Named Data Networking with Interest Aggregation 
+   On Runtime Software Security of TrustZone-M Based IoT Devices 
+   Robust Beamforming Optimization for Intelligent Reflecting Surface Aided Cognitive Radio Networks 
+   Deep Reinforcement Learning for Robust Beamforming in IRS-assisted Wireless Communications 
+   Power-Efficient Formation of UAV Swarm: Just Like Flying Birds? 1-6 
+   Quasi-Deterministic Channel Model for mmWaves: Mathematical Formalization and Validation 
+   Energy Efficient Joint Pushing and On-demand Transmission over Shared Spectrum 
+   Common Agency-Based Economic Model for Energy Contract in Electric Vehicle Networks 
+   Enhancing Robustness of Malware Detection using Synthetically-adversarial Samples 
+   Iterative Learning Control for Pre-distortion Design in Wideband Direct-Conversion Transmitters 
+   Distributed Computing with Heterogeneous Servers 
+   Joint Transmission in QoE-Driven Backhaul-Aware MC-NOMA Cognitive Radio Network 
+   Fair Resource Allocation in Optical Networks under Tidal Traffic 
+   Efficient Mobile Computation Offloading with Hard Task Deadlines and Concurrent Local Execution 
+   A Novel User Selection Massive MIMO Scheduling Algorithm via Real Time DDPG 
+   STC: Enabling 16K VR streaming on mobile platforms with FoV tracking 
+   Dynamic partitioning of radio resources based on 5G RAN Slicing 
+   Simulation-Aided Measurement-Based Channel Modeling for Propagation at 28 GHz in a Coniferous Forest 
+   Periodic Subflow-based Proactive Flow Installation Mechanism in SDN-based IoT 
+   Spherical Code Superposition NOMA and Its User Pairing Strategy 
+   Utilizing Cooperative Jamming to Secure Cognitive Radio NOMA Networks 
+   Anomaly Detection via Controlled Sensing and Deep Active Inference 
+   Energy-efficient Velocity Control for Massive Numbers of Rotary-Wing UAVs: A Mean Field Game Approach 
+   Performance Implications of Problem Decomposition Approaches for SDN Pipelines 
+   Smart Meter Data Compression using Generalized Deduplication 
+   Chain-Net: Learning Deep Model for Modulation Classification Under Synthetic Channel Impairment 
+   An Effective In-Vehicle CAN Bus Intrusion Detection System Using CNN Deep Learning Approach 
+   AutAvailChain: Automatic and Secure Data Availability through Blockchain 
+   Traffic Skewness-aware Performance Analysis of Dual-powered Green Cellular Networks 
+   Prototyping of Open Source NB-IoT Network 
+   Joint Task and Resource Allocation for Mobile Edge Learning 
+   Coverage Recovery Analysis of UAV Base Station Networks 
+   Radio Resource and Beam Management in 5G mmWave Using Clustering and Deep Reinforcement Learning 
+   Evaluation of Cognitive Routing for the Interplanetary Internet 
+   Intersection Crossing with Connected Autonomous Vehicles under Location Uncertainty 
+   Deep Learning-based Beamforming and Blockage Prediction for Sub-6GHz/mmWave Mobile Networks 
+   Utilizing Network Function Virtualization for Drone-based Networks 
+   Latency Comparison of Cloud Datacenters and Edge Servers 
+   Parameter Estimation in a Noisy 1D Environment via Two Absorbing Receivers 
+   Remote Reinforcement Learning over a Noisy Channel 
+   An Intelligent Coordinator Design for Network Slicing in Service-Oriented Vehicular Networks 
+   4G LTE Network Throughput Modelling and Prediction 
+   Reconfigurable Intelligent Surface Enhanced Device-to-Device Communications 
+   Age-Based Coded Computation for Bias Reduction in Distributed Learning 
+   Does Blockage Correlation Matter in the Performance of mmWave Cellular Networks? 1-6 
+   Meta-Reinforcement Learning for Trajectory Design in Wireless UAV Networks 
+   Deep Reinforcement Learning for IoT Networks: Age of Information and Energy Cost Tradeoff 
+   Joint Source Channel Anytime Coding 
+   Event-Driven Source Traffic Prediction in Machine-Type Communications Using LSTM Networks 
+   Energy Trading and Time Scheduling for Energy-Efficient Heterogeneous Low-Power IoT Networks 
+   NB-IoT over Non-Terrestrial Networks: Link Budget Analysis 
+   Delay Minimization for Edge Computing with Dynamic Server Computing Capacity: A Learning Approach 
+   Resource Allocation for Wireless Communications with Distributed Reconfigurable Intelligent Surfaces 
+   Joint Task Assignment and Trajectory optimization for a Mobile Robot Swarm by Mean-Field Game 
+   NOMA and User-Centric Based Cell-Free Massive MIMO Over 6G Big-Data Mobile Wireless Networks 
+   Hybrid Dimming Scheme based on Transmit Antenna Selection and Precoding for MU MC VLC System 
+   Time-series Measurement of Parked Domain Names 
+   Resource Allocation via Graph Neural Networks in Free Space Optical Fronthaul Networks 
+   Deep Learning for Geometrically-Consistent Angular Power Spread Function Estimation in Massive MIMO 
+   Location-Based Timing Advance Estimation for 5G Integrated LEO Satellite Communications 
+   3-D Statistical Indoor Channel Model for Millimeter-Wave and Sub-Terahertz Bands 
+   Intelligent-driven Adapting Defense Against the Client-side DNS Cache Poisoning in the Cloud 
+   Backhauling Many Devices: Relay Schemes for Massive Random Access Networks 
+   Recurrent Neural Network Assisted Transmitter Selection for Secrecy in Cognitive Radio Network 
+   Enhancing Path Reliability against Sybil Attack by Improved Multi-Path-Trees in SDN 
+   Secrecy and Accessibility in Distributed Storage 
+   A Demand and Responsiveness-based Caching Strategy for Network Coding Enabled NDN 
+   Fast SD-Hamming Decoding in FPGA for High-Speed Concatenated FEC for Optical Communication 
+   Autonomous Raman Amplifiers in Software-Defined Optical Transport Networks 
+   A Secure Hybrid Duplex Relay System with Joint Optimization of Finite Blocklength and Power 
+   A Scalable Solution to Network Design Problems: Decomposition with Exhaustive Routing Search 
+   Proactive Network Slice Reconfiguration by Exploiting Prediction Interval and Robust optimization 
+   Compressed-Coding and Analog Spatial-Coupling using AMP based Decoding 
+   Waveform Classification in Radar-Communications Coexistence Scenarios 
+   Multi-agent Deep Reinforcement Learning for Non-Cooperative Power Control in Heterogeneous Networks 
+   Low-Complexity Coded Transmission Without CSI for Full-Duplex Relay Networks 
+   Environmental Monitoring in Wireless Sensor Networks using Structured Matrix Completion 
+   Value Decomposition based Multi-Task Multi-Agent Deep Reinforcement Learning in Vehicular Networks 
+   Efficient Backscatter with Ambient WiFi for Live Streaming 
+   Incremental Data-Driven Topology Learning for Time-Varying Graph Signals 
+   Load-Aware Satellite Handover Strategy Based on Multi-Agent Reinforcement Learning 
+   Coalition Game-based Approach for Improving the QoE of DASH-based Streaming in Multi-servers Scheme 
+   A Value of Information Framework for Latent Variable Models 
+   A Novel Criterion of Reconstruction-based Anomaly Detection for Sparse-binary Data 
+   Low Cost Localisation in Residential Environments using High Resolution CIR Information 
+   Privacy-Preserving Traffic Flow Estimation for Road Networks 
+   Content Caching and Allocation in Spatially Correlated Small Cells 
+   Semi-Supervised Learning with GANs for Device-Free Fingerprinting Indoor Localization 
+   Linear MMSE Precoder Combiner Designs for Decentralized Estimation in Wireless Sensor Networks 
+   Scalable and Updatable Attribute-based Privacy Protection Scheme for Big Data Publishing 
+   DAVS: Dynamic-Chunk Quality Aware Adaptive Video Streaming using Apprenticeship Learning 
+   Common Randomness Generation and Identification over Gaussian Channels 
+   Altitude Optimization for DF Relaying Trajectory of UAV in Cooperative FANET 
+   Machine Learning-Based Generalized User Grouping in NOMA 
+   A Novel Approach to Channel Profiling Using the Frequency Selectiveness of WiFi CSI Samples 
+   Particle Swarm Optimized Federated Learning For Industrial IoT and Smart City Services 
+   Communication and Computation Offloading for 5G V2X: Modeling and Optimization 
+   Sparse Array of Sub-surface Aided Anti-blockage mmWave Communication Systems 
+   Online Policy Learning for Opportunistic Mobile Computation Offloading 
+   Cell-Free Massive MIMO with Channel Aging and Pilot Contamination 
+   Exploiting Wireless Links Diversity in Software-Defined Ieee 802 
+   DistPrivacy: Privacy-Aware Distributed Deep Neural Networks in IoT surveillance systems 
+   Regression PCA for Moving Objects Separation 
+   Adversarial Attacks to Machine Learning-Based Smart Healthcare Systems 
+   Power Control for NOMA HAP-UAV Integrated Aerial Access Networks 
+   The Interplay between Index Coding, Caching, and Beamforming for Fog Radio Access Networks 
+   Trading Data For Learning: Incentive Mechanism For On-Device Federated Learning 
+   UAV-based Multi-cell HAPS Communication: System Design and Performance Evaluation 
+   2D Antenna Array Structures for Hybrid Massive MIMO Precoding 
+   Journey to MARS: Interplanetary Coding for relieving CDNs 
+   Secure Federated Learning in 5G Mobile Networks 
+   Big Data Scenarios Simulator for Deep Learning Algorithm Evaluation for Autonomous Vehicle 
+   Utility Optimization for Resource Allocation in Edge Network Slicing Using DRL 
+   Super-Resolution Block-Sparse Channel Estimation Over Uplink M-MIMO 5G Mobile Wireless Networks 
+   Efficient and Privacy-Preserving Non-Interactive Truth Discovery for Mobile Crowdsensing 
+   Max-min Fairness-based IRS-aided SWIPT 
+   Evaluation of Forwarding Strategies for NDN-based Multi-Access Edge Computing 
+   (τ, ϵ)-Greedy Reinforcement Learning For Anti-Jamming Wireless Communications 
+   Receiver Artificial Noise Aided Terahertz Secure Communications with Eavesdropper in Close Proximity 
+   Signal Transmission Through Human Body Via Engineered Nervous System 
+   Multi-Agent Coordinated Interception of Multiple Rogue Drones 
+   A DNN-based Multi-Objective Precoding for Gaussian MIMO Networks 
+   Real-time Millimeter Wave Omnidirectional Channel Sounder Using Phased Array Antennas 
+   Figo: Mobility-Aware In-Flight Service Assignment and Reconfiguration with Deep Q-Learning 
+   Generalized Distributed Information Bottleneck for Fronthaul Rate Reduction at the Cloud-RANs Uplink 
+   Towards 100 Mb/s Optical Wireless Communications Using a Silicon Photovoltaic Receiver 
+   Explainability Methods for Identifying Root-Cause of SLA Violation Prediction in 5G Network 
+   Cluster-based certificate revocation in industrial IOT networks using Signaling game 
+   Low-Complexity Weighted Sum-Rate Maximization of MIMO MAC with Finite-Alphabet Inputs 
+   Peer Effect-based Demand Response in Smart Grid: A Game Theoretical Approach 
+   Cross-layer Band Selection and Routing Design for Diverse Band-aware DSA Networks 
+   Joint User Association and Resource Allocation in CoMP-Enabled Heterogeneous CRAN 
+   Efficient Privacy-Preserving Similarity Range Query based on Pre-computed Distances in eHealthcare 
+   Age of Information Based Statistical Delay-Bounded QoS Provisioning Over Multimedia Mobile Wireless Networks 
+   Energy-efficient Incremental Offloading of Neural Network Computations in Mobile Edge Computing 
+   Optimal CRC Design and Serial List Viterbi Decoding for Multi-Input Convolutional Codes 
+   Enhancing End-to-End Transport with Packet Trimming 
+   UAV-Assisted Ground Signal Map Construction based on 3-D Spatial Correlation 
+   Privacy Preserving Facial Recognition Against Model Inversion Attacks 
+   A secure task-offloading framework for cooperative fog computing environment 
+   Energy Efficiency Analysis of Intelligent Reflecting Surface System with Hardware Impairments 
+   Ergodic Capacity Analysis of Alamouti Coded Cooperative Communication in Downlink NOMA 
+   Dynamic Resource Aware VNF Placement with Deep Reinforcement Learning for 5G Networks 
+   A Robust Hierarchical Learning Approach for dynamic MEC Networks 
+   A machine learning approach for detecting CNAME cloaking-based tracking on the Web 
+   Deep Learning-based Adaptive Beamforming for mmWave Wireless Body Area Network 
+   Repeatedly Energy-Efficient and Fair Service Coverage: UAV Slicing 
+   Cluster-based Group Paging Scheme with Preamble Reuse for mMTC in 5G Networks 
+   Degrees of Freedom of Multi-Mode-Multi-Spatial (MOMS) in Line-of-Sight Channels 
+   Channel Estimation for Intelligent Reflecting Surface-Assisted Millimeter Wave MIMO Systems 
+   Learning Based Energy Efficient Radar Power Control Against Deceptive Jamming 
+   Write and Read Channel Models for 1S1R Crossbar Resistive Memory with High Line Resistance 
+   Optimal Network Coding Policy for Joint Cellular and Intermittently Connected D2D Networking 
+   An Efficient and Reliable Multi-Cloud Provider Monitoring Solution 
+   Physical Layer Security for Edge Caching in 6G Networks 
+   Liver Tumor Segmentation and Radio Frequency Ablation Treatment Design Based on CT Image 
+   Mobility Data-Driven Wireless Network Virtualization for Mobile Cyber Physical System 
+   ClusterGrad: Adaptive Gradient Compression by Clustering in Federated Learning 
+   Flexible LED Index Modulation for MIMO Optical Wireless Communications 
+   Growing Bio-nanomachine Networks: Application to Malignant Tumor Evolution and Progression 
+   Performance Analysis of SDN and NFV enabled Mobile Cloud Computing 
+   Piper: A Unified Machine Learning Pipeline for Internet-scale Traffic Analysis 
+   Deep Reinforcement Learning Based 3D UAV Trajectory Design and Frequency Band Allocation 
+   Optimal Preamble Design for Short Packet Circularly Pulse-Shaped OFDM Transmissions 
+   On Vehicle Fault Diagnosis: A Low Complexity Onboard Method 
+   Sum-Rate Maximization for Multiuser MISO Downlink Systems with Self-sustainable IRS 
+   Joint Service Scheduling and Content Caching Over Unreliable Channels 
+   Resource Allocation based on Graph Neural Networks in Vehicular Communications 
+   On Virtual Id Assignment in Networks for High Resilience Routing: A Theoretical Framework 
+   AoI Minimization for UAV-to-Device Underlay Communication by Multi-agent Deep Reinforcement Learning 
+   A Time-aware Similarity-based Trust Computational Model for Social Internet of Things 
+   Understanding Human Mobility for CrowdSensing Strategies with the ParticipAct Data Set 
+   Joint Approximate Covariance Diagonalization with Applications in MIMO Virtual Beam Design 
+   Dynamics of the flexible functional split selection in 5G networks 
+   Locality-Preserving Spatial Partitioning for Geo Big Data Analytics in Main Memory Frameworks 
+   Common amplitude-weighted analog beamforming in multiuser millimeter wave communication systems 
+   Hybrid-Mode Multiple Access for UAV-BS Assisted Communications with UL-DL Rate Balancing 
+   Computation-Aided Data Transmission for Remote Reconstruction of Trajectories of Dynamical Systems 
+   Multi-Dimensional Contract-Matching for Federated Learning in UAV-Enabled Internet of Vehicles 
+   Time-Series Prediction for Sensing in Smart Greenhouses 
+   Optimal 3D-UAV Trajectory and Resource Allocation of DL UAV-GE Links with Directional Antennas 
+   On Approximation, Bounding & Exact Calculation of Block Error Probability for Random Codes 
+   Improving Scalability of Delay Bound with Stochastic Network Calculus 
+   Deep Reinforcement Learning based Access Control for Disaster Response Networks 
+   A Sharing-Economy Inspired Pricing Mechanism for Multi-Access Edge Computing 
+   Joint Tier Slicing and Power Control for a Novel Multicast System based on NOMA and D2D-Relay 
+   Caching Placement and Resource Allocation for AR Application in UAV NOMA Networks 
+   Interpretable Dictionary Learning Using Information Theory 
+   Differential Privacy and Prediction Uncertainty of Gossip Protocols in General Networks 
+   Detecting Anomalous IoT Traffic Flow with Locality Sensitive Hashes 
+   Delay-aware Cellular Traffic Scheduling with Deep Reinforcement Learning 
+   AirID: Injecting a Custom RF Fingerprint for Enhanced UAV Identification using Deep Learning 
+   AI-based Satellite Ground Communication System with Intelligent Antenna Pointing 
+   Cross Validation Based Adaptive Compressed Spectrum Sensing without Testing Set 
+   RALaaS: Resource-Aware Learning-as-a-Service in Edge-Cloud Collaborative Smart Connected Communities 
+   Robust Transmission Design for Intelligent Reflecting Surface Aided Secure Communications 
+   Deploying Fused Sharable Video Interaction Channels in Mobile Cloud 
+   A UAV-enabled Dynamic Multi-Target Tracking and Sensing Framework 
+   Joint PRB and Power Allocation for Slicing eMBB and URLLC Services in 5G C-RAN 
+   On the Optimal 3D Placement of a UAV Base Station for Maximal Coverage of UAV Users 
+   FDD Massive MIMO Uplink and Downlink Channel Reciprocity Properties: Full or Partial Reciprocity? 1-5 
+   SCMA Spectral and Energy Efficiency with QoS 
+   BPP over P4: Exploring Frontiers and Limits in Programmable Packet Processing 
+   Energy-Efficient Hybrid Symbol-Level Precoding via Phase Shifter Selection in mmWave MU-MIMO Systems 
+   Experimental Evaluation of an Indoor Long Distance High Speed Imaging MIMO System 
+   Study of Intelligent Reflective Surface Assisted Communications with One-bit Phase Adjustments 
+   Certified Robustness of Graph Classification against Topology Attack with Randomized Smoothing 
+   Visible light communication-based positioning for indoor environments using supervised learning 
+   A Random Linear Network Coded HARQ Solution for Lossy and High-Jitter Wireless Networks 
+   COTAF: Convergent Over-the-Air Federated Learning 
+   Distributed Multi-agent Cooperative Resource Sharing Algorithm in Fog Networks 
+   Efficient Bandwidth Allocation for URLLC in Frequency-Selective Fading Channels 
+   Self-Learning Bayesian Generative Models for Jammer Detection in Cognitive-UAV-Radios 
+   Communication-Efficient Federated Learning in UAV-enabled IoV: A Joint Auction-Coalition Approach 
+   Hop-by-Hop Congestion Measurement and Practical Active Queue Management in NDN 
+   Joint Passive Beamforming and User Association optimization for IRS-assisted mmWave Systems 
+   Joint Computation Offloading and Variable-width Channel Access Optimization in UAV Swarms 
+   Energy-Efficient Cyclical Trajectory Design for UAV-Aided Maritime Data Collection in Wind 
+   GPIO PUF For IoT Devices 
+   Model Partition Defense against GAN Attacks on Collaborative Learning via Mobile Edge Computing 
+   Federated Learning with Communication Delay in Edge Networks 
+   Secure Fog-assisted Sharing for Multimedia Health Records in the Cloud 
+   A Preprocessing Methodology by Using Additional Steganography on CNN-based Steganalysis 
+   HybridCache: AI-Assisted Cloud-RAN Caching with Reduced In-Network Content Redundancy 
+   Energy Minimization for Mobile Edge Computing Networks with Time-Sensitive Constraints 
+   Matching Theory-Based Joint Access Point Assignment and Power Allocation in Hybrid RF/VLC HetNet 
+   Intelligent Reflecting Surface Assisted Anti-Jamming Communications Based on Reinforcement Learning 
+   Modeling perturbation of scattering coefficients by using dominating noise subspace 
+   Learning-based Load Balancing Handover in Mobile Millimeter Wave Networks 
+   Radar Imaging Based on IEEE 802 
+   Study of the Impact of Sinkhole Attack in IoT Using Shewhart Control Charts 
+   Freshness-aware Energy Saving in Cellular Systems with Cooperative Information Updates 
+   Downlink NOMA for Coexistence of Aerial and Terrestrial Users: Stochastic Geometry Analysis 
+   On the Ruin of Age of Information in Augmented Reality over Wireless Terahertz (THz) Networks 
+   Power Allocation for Millimeter-Wave Railway Systems with Multi-Agent Deep Reinforcement Learning 
+   An Efficient Network Coding Scheme for Heterogeneous Wireless Networks 
+   Model-based Performance Evaluation of a Moving Target Defense System 
+   Parametric Message-passing for Joint Localization and Synchronization in Cooperative Networks 
+   Age of Information in Random Access Networks: A Spatiotemporal Study 
+   Frequency Domain Multi-user Detection for Single Carrier Modulation with Cyclic Prefix 
+   Unified Iterative Receiver Design in Uplink Grant-free Massive MIMO SCMA Systems 
+   CSI Feedback Compression with Limited Downlink Pilots for 5G FDD-NR Massive MIMO Systems 
+   Deep Reinforcement Learning Based Intelligent Reflecting Surface for Secure Wireless Communications 
+   Outage Performance of Downlink IRS-Assisted NOMA Systems 
+   ISM band Integrated Distributed Antenna Systems for Industry 4 
+   Efficient Handover Algorithm in 5G Networks using Deep Learning 
+   What Can Ail Thee: New and Old Security Vulnerabilities of Wireless Datacenters 
+   Isolation Guarantees with Flow Table Overflow in Software-Defined Networks 
+   Three-Dimensional Modeling of Millimeter-Wave MIMO Channels for UAV-Based Communications 
+   A Wideband Sliding Correlator based Channel Sounder in 65 nm CMOS: An Evaluation Board Design 
+   MobileSR: Efficient Convolutional Neural Network for Super-resolution 
+   Distributed Formation Algorithm Based on Integrated Localization and Control 
+   Region-Aware Bagging and Deep Learning-Based Fake Task Detection in Mobile Crowdsensing Platforms 
+   Energy-Efficient Multi-UAV Data Collection for IoT Networks with Time Deadlines 
+   Towards Environment-independent Human Activity Recognition using Deep Learning and Enhanced CSI 
+   Enhancing Security in VLC Systems Through Beamforming 
+   Bivariate Hermitian Polynomial Coding for Efficient Distributed Matrix Multiplication 
+   A Novel Gaussian in Denoising Medical Images with Different Wavelets for Internet of Things Devices 
+   Deep Reinforcement Learning based Dynamic Edge/Fog Network Slicing 
+   Age of Information-Aware Resource Management in UAV-Assisted Mobile-Edge Computing Systems 
+   Preamble Transmission Prediction for mMTC Bursty Traffic: A Machine Learning based Approach 
+   Achieving Ordered Data Block Delivery in CCSDS-DTN Space Networks: a Case Study 
+   Matchmaking of Volunteers and Channels for Dynamic Spectrum Access Enforcement 
+   In-Vehicle Computing-based BSM Reuse Model 
+   Spreading Factor Allocation for LoRa Nodes Progressively Joining a Multi-Gateway Adaptive Network 
+   Unsupervised ResNet-Inspired Beamforming Design Using Deep Unfolding Technique 
+   Communication, Migration and Energy in Bio-nanomachine Functionality Differentiation 
+   Spatiotemporal Modelling of Multi-Gateway LoRa Networks with Imperfect SF Orthogonality 
+   Multiple entry point PBFT for IoT systems 
+   Information Disclosure Game on Sharing Platforms 
+   Triplet-Based Wireless Channel Charting 
+   Dynamic Task Caching and Computation Offloading for Mobile Edge Computing 
+   FAST-RAM: A Fast AI-assistant Solution for Task Offloading and Resource Allocation in MEC 
+   Impact of Imperfect Time Synchronization on Cooperative Jamming Assisted Slow FH Systems 
+   Establishing Secrecy Region for Directional Modulation Scheme with Random Frequency Diverse Array 
+   Optimal Streaming of 360 VR Videos with Perfect, Imperfect and Unknown FoV Viewing Probabilities 
+   A Stackelberg Game Approach to Resource Allocation for IRS-aided Communications 
+   Privacy-preserving Intelligent Traffic Light Control 
+   Energy and Spectrum Efficient User Association for Backhaul Load Balancing in Small Cell Networks 
+   Blockchain and Edge Computing for Decentralized EMRs Sharing in Federated Healthcare 
+   Bilinear Gaussian Belief Propagation for Large MIMO Channel and Data Estimation 
+   On the Complexity Requirements of a Panel-Based Large Intelligent Surface 
+   Strong Secrecy for Relay Wiretap Channels with Polar Codes and Double-Chaining 
+   Energy-Efficient Communications in Solar-Powered Unmanned Aerial Systems 
+   Massive Unsourced Random Access for Massive MIMO Correlated Channels 
+   Towards Efficient Secure Aggregation for Model Update in Federated Learning 
+   Performance of Coded MIMO Spatial Modulation with Scaling Matched-Filter Detector 
+   Images to Signals, Signals to Highlights 
+   Fair VNF Provisioning in NFV Clusters via Node Labeling 
+   Experimental Validation of IEEE 802 
+   Optimal-Delay-Guaranteed Energy Efficient Cooperative Offloading in VEC Networks 
+   Latency-aware Reliable mmWave Communication via Multi-point Connectivity 
+   Joint Uplink-Downlink Resource Allocation for OFDMA-URLLC MEC Systems 
+   PLS for Wireless Interference Networks in the Short Blocklength Regime with Strong Wiretap Channels 
+   Multi-Domain Conversions of High Dimensional Channel Characteristics for Massive MIMO-OFDM 
+   Distributional Reinforcement Learning for mmWave Communications with Intelligent Reflectors on a UAV 
+   Compressed Multiple Random Access with Energy Modulation 
+   MmWave MIMO-OFDM with Index Modulation: A Pareto-Optimal Trade-off on Spectral-Energy Efficiency 
+   Active Intelligent Reflecting Surface for SIMO Communications 
+   Generalized Likelihood-Ratio Enabled Machine Learning for UE Detection over Grant-free SCMA 
+   Adaptive CQI and RI Estimation for 5G NR: A Shallow Reinforcement Learning Approach 
+   QoE-driven Task Offloading with Deep Reinforcement Learning in Edge intelligent IoV 
+   Deep Learning Aided Channel Estimation for Massive MIMO with Pilot Contamination 
+   Multi-Fingerprint for Wireless Localization in Time-Varying Indoor Environment 
+   AoI-based Finite Horizon Scheduling for Heterogeneous Networked Control Systems 
+   Power-Efficient Resource Allocation for Multiuser MISO Systems via Intelligent Reflecting Surfaces 
+   Probabilistic Skyline Query Processing over Uncertain Data Streams in Edge Computing Environments 
+   Occupant Behavior Prediction and Real-Time Correction-based Smart Building Energy Optimization 
+   Health-Flow: Criticality-Aware Flow Control for SDN-Based Healthcare IoT 
+   PLB: Adaptive Partial Congestion-aware Load Balancing for Datacenter Networks 
+   ArMor: A Data Analytics Scheme to identify malicious behaviors on Blockchain-based Smart Grid System 
+   Task Offloading and Dispatching for MEC with Selfish Mobile Devices and Access Points 
+   Seiðr: Dataplane Assisted Flow Classification Using ML 
+   Optimal Closed-Form Designs for Directional Modulation with Practical Hardware Limitations 
+   Enhancing Fidelity of Quantum Cryptography using Maximally Entangled Qubits 
+   Energy-Efficient Resource Allocation for UAV-Enabled Information and Power Transfer with NOMA 
+   State-Aware Resource Allocation for Wireless Closed-Loop Control Based on Multi-Connectivity 
+   Coded Caching with Distinct Number of User Requests 
+   Network Latency Estimation with Graph-Laplacian Regularization Tensor Completion 
+   Delay-Reliability Model of Industrial WSN for Networked Control Systems 
+   Kube5G: A Cloud-Native 5G Service Platform 
+   Memory-aware Online Compression of CAN Bus Data for Future Vehicular Systems 
+   Energy-Efficient Video Streaming in UAV-Enabled Wireless Networks: A Safe-DQN Approach 
+   Reproducibility of Survey Results: A New Method to Quantify Similarity of Human Subject Pools 
+   Private Edge Computing for Linear Inference Based on Secret Sharing 
+   Energy-Aware Cooperative Offloading Framework for Inter-dependent and Delay-sensitive Tasks 
+   IEEE 802 
+   NC-MAC: Network Coding-based Distributed MAC Protocol for Reliable Beacon Broadcasting in V2X 
+   MIMO Detector Selection for Multiple High-Order Modulations with Unified Neural Network 
+   Graph-Based Random Sampling for Massive Access in IoT Networks 
+   From One to Many FemtoClouds 
+   A Reinforcement Learning Aided Decoupled RAN Slicing Framework for Cellular V2X 
+   Impact of Evolutionary Community Detection Algorithms for Edge Selection Strategies 
+   Atmospheric Effects on Satellite-to-Ground Quantum Key Distribution using Coherent States 
+   Deep Unfolding-Aided Gaussian Belief Propagation for Correlated Large MIMO Detection 
+   The Effect of Multiple Access Categories on the MAC Layer Performance of IEEE 802 
+   A Supplemental Zero-Energy Downlink Air-Interface Enabling 40-Year Battery Life in IoT Devices 
+   Secure Beamforming Designs in MISO Visible Light Communication Networks with SLIPT 
+   Implicit Feedback-based Group Recommender System for Internet of Things Applications 
+   Construction of Polar Codes with Reinforcement Learning 
+   Compressive Sensing based Multi-class Privacy-preserving Cloud Computing 
+   In-phase and Quadrature Chirp Spread Spectrum for IoT Communications 
+   Uplink Transmission in Mixed RF/FSO Satellite-aerial-Terrestrial Networks 
+   Smart Spectrum Switching in Wireless Body Area Networks 
+   Power Allocation and Outage Analysis for Secure MISO Networks With an Unknown Eavesdropper 
+   Diagonal Multi-Antenna Coded Caching for Reduced Subpacketization 
+   Resource Allocation for Multi-user Mobile-edge Computing Systems with Delay Constraints 
+   Data Driven Optimization of Inter-Frequency Mobility Parameters for Emerging Multi-band Networks 
+   Performance Analysis of Distributed Intelligent Reflective Surface Aided Communications 
+   Performance Analysis of Uplink mmWave Communications in C-V2X Networks 
+   Latency Prediction for Delay-sensitive V2X Applications in Mobile Cloud/Edge Computing Systems 
+   Integrating LEO Satellite and UAV Relaying via Reinforcement Learning for Non-Terrestrial Networks 
+   Value-driven Cache Replacement Strategy in Mobile Edge Computing 
+   Deep Learning-aided Successive Interference Cancellation for MIMO-NOMA 
+   Protecting Access Privacy in Ethereum Using Differentially Private Information Retrieval 
+   Optimal Cybersecurity Investments for SIS Model 
+   Millimeter Wave Position Location using Multipath Differentiation for 3GPP using Field Measurements 
+   Click-based tests of QoS mechanisms for flow-based router 
+   Channel Estimation for RIS-Aided mmWave MIMO Systems 
+   Dynamic-subarray with Quantized- and Fixed-phase Shifters for Terahertz Hybrid Beamforming 
+   Energy-Efficient Beamforming and Power Control for Uplink NOMA in mmWave UAV Networks 
+   Automatic Check-In Service at Businesses Enabled with Private Mobile Networks 
+   Mobile Crowdsensing Coverage Degree-Probability Enhancement based on Urban Vehicles 
+   Deep Learning versus High-order Recurrent Neural Network based Decoding for Convolutional Codes 
+   Joint User Grouping and Beamwidth Optimization for Satellite Multicast with Phased Array Antennas 
+   Time-to-Provision Evaluation of IoT Devices Using Automated Zero-Touch Provisioning 
+   Robust Secure Beamforming for Multi-Receiver Multi-Eavesdropper MIMO SWIPT Systems 
+   Joint Resource Allocation and Trajectory Design for UAV-assisted Mobile Edge Computing Systems 
+   Software Diversity for Cyber Deception 
+   Pseudo-Inverse vs Generalized Inverse for C-RAN Downlink Precoding 
+   Power Splitting based Precoding for the MIMO-BC with Multicast and Confidential Messages 
+   Multi-Access Edge Computing and Blockchain-based Secure Telehealth System Connected with 5G and IoT 
+   Optimal Scheduling and Power Control for In-Band Full-Duplex Communication in WLANs 
+   MSBL-based Simultaneous Sparse Channel Estimation in SC Wideband mmWave Hybrid MIMO Systems 
+   Reinforcement Learning-based Admission Control in Delay-sensitive Service Systems 
+   A Task Offloading Scheme for WAVE Vehicular Clouds and 5G Mobile Edge Computing 
+   Dynamic Computation Offloading in Multi-Server MEC Systems: An Online Learning Approach 
+   Mobility Modes for Pulse-Shaped OTFS with Linear Equalizer 
+   Energy-efficiency of Massive Random Access with Individual Codebook 
+   A Deep Reinforcement learning based Approach for Channel Aggregation in IEEE 802 
+   Optimization of Multi-UAV-BS Aided Millimeter-Wave Massive MIMO Networks 
+   Codebook-based Phase Adjustment for IRS-aided Communication Via Time-Coding Modulation 
+   Age-optimal Transmission Policy for Markov Source with Differential Encoding 
+   Joint Beamforming and Reconfigurable Intelligent Surface Design for Two-Way Relay Networks 
+   Age of Information in Multi-hop Networks with Priorities 
+   Column Generation Based Algorithm for Service Chaining Relaxing Visit Order and Routing Constraints 
+   A Game-based Network Slicing and Resource Scheduling for Compute First Networking 
+   Forensic Model for DDoS Attack 
+   E-model: An analytical tool for fast adaptation of IEEE 802 
+   Efficient Resources Allocation and Computation Offloading Model for AP-based Edge Cloud 
+   Predictive Resource Allocation for Automotive Applications Using Interference Calculus 
+   Transaction Throughput Maximization under Delay and Energy Constraints in Fog-IoT Networks 
+   Hybrid RSS/CSI Fingerprint Aided Indoor Localization: A Deep Learning based Approach 
+   A Blockchain-based Medical Data Marketplace with Trustless Fair Exchange and Access Control 
+   Throughput Maximization via Joint Optimization of Fronthaul and Access Links in C- RANs 
+   Nearest APs-Based Downlink Pilot Transmission for High Secrecy Rates in Cell-Free Massive MIMO 
+   Multi-antenna Non-coherent Detection of Ambient Backscatter under Time-Selective Fading 
+   Blind Symbol Rate and Frequency Offset Estimation for PCMA Signals via Cyclic Correlations 
+   A Data-assisted Algorithm for Truly Grant-free Transmissions of Future mMTC 
+   Contract-Theoretic Resource Control in Wireless Powered Communication Public Safety Systems 
+   Self-Interference-Resistant IEEE 802 
+   Image Download and Rate Allocation of Internet-of-Things Analytics at Gateways in Smart Cities 
+   Unsupervised Federated Learning for Unbalanced Data 
+   Real World Performance of LTE Downlink in a Static Dense Urban Scenario - An Open Dataset 
+   Beam Training with Limited Feedback for Multiuser mmWave Massive MIMO 
+   RGB-based Android Malware Detection and Classification Using Convolutional Neural Network 
+   Sub-Connected Hybrid Precoding Architectures in Massive MIMO Systems 
+   Energy Efficiency and Spectral Efficiency Tradeoff in RIS-Aided Multiuser MIMO Uplink Systems 
+   On the Interference Immunity of Visible Light Communication (VLC) 
+   Safe Multi-Agent Deep Reinforcement Learning for Dynamic Virtual Network Allocation 
+   An Angle Domain Design Framework for Intelligent Reflecting Surface Systems 
+   Trajectory Design for UAV-Assisted Emergency Communications: A Transfer Learning Approach 
+   WiFi-Based Channel Impulse Response Estimation and Localization via Multi-Band Splicing 
+   Full Duplex Multiuser MIMO MAC Protocol (FD-MUMAC) 
+   Distributed Online Handover Decisions for Energy Efficiency in Dense HetNets 
+   Video Monitoring System using Facial Recognition: A Facenet-based Approach 
+   QoS and Resource aware Security Orchestration System 
+   Spatial Coupling In Turbo Equalization 
+   SREC: Proactive Self-Remedy of Energy-Constrained UAV-Based Networks via Deep Reinforcement Learning 
+   Doppler Estimation and Correction for JANUS Underwater Communications 
+   Monitoring Live Parking Availability by Vision-based Vehicular Crowdsensing 
+   Wideband Beam Tracking Based on Beam Zooming for THz Massive MIMO 
+   Energy-Efficient Content Pushing based on Rate and Power Adaptation with Delay Constraints 
+   DCOA: Double-Check Offloading Algorithm to Road-Side Unit and Vehicular Micro-Cloud in 5G Networks 
+   Joint User Scheduling and Resource Allocation for Federated Learning over Wireless Networks 
+   Flexible and Privacy-preserving Framework for Decentralized Collaborative Learning 
+   OptiCam: Optimal Camera Selection for Provisioning Camera - Network -as-a -Service 
+   A Secured Geo-routing Protocol for VANET with an Enhanced Junction Selection Mechanism 
+   Reduced Feedback, User Scheduling, and Mode Selection in Asymmetric Full-Duplex Systems 
+   A Trust Management System for Multi-agent System in Smart Grids using Blockchain Technology 
+   Optimizing AI Service Placement and Computation Offloading in Mobile Edge Intelligence Systems 
+   Stochastic Analysis of Coded Multicasting for Shared Caches Networks 
+   Semantic Private Information Retrieval: Effects of Heterogeneous Message Sizes and Popularities 
+   An Edge-powered Approach to Assisted Driving 
+   Reconfigurable Intelligent Surface Empowered Symbiotic Radio over Broadcasting Signals 
+   Energy-Aware and URLLC-Aware Task Offloading for Internet of Health Things 
+   Non-Orthogonal Modulation for Short Packets in Massive Machine Type Communications 
+   Design of Energy Modulation Massive SIMO Transceivers via Machine Learning 
+   Optimal Beam Association in mmWave Vehicular Networks with Parallel Reinforcement Learning 
+   Group-Delay Aware Task Offloading with Service Replication for Scalable Mobile Edge Computing 
+   User Preference Aware Lossy Data Compression for Edge Caching 
+   Joint Power and Deployment Optimization for Multi-UAV Remote Edge Computing 
+   Generative Adversarial Network and Auto Encoder based Anomaly Detection in Distributed IoT Networks 
+   LOST: A Location Estimator Scheme for PM2 
+   Secure and Privacy-preserving Energy Trading Scheme based on Blockchain 
+   Service Migration for Multi-Cell Mobile Edge Computing 
+   Energy-Efficient Mobile Edge Computing System Based on Full-Duplex Energy Harvesting Relay Network 
+   Communication-Efficient Federated Learning for Anomaly Detection in Industrial Internet of Things 
+   Computational Resource Sharing in a Vehicular Cloud Network via Deep Reinforcement Learning 
+   A Privacy-Preserving Medical Data Sharing Scheme Based on Consortium Blockchain 
+   Packet Level In-Time Guarantee: Algorithm and Theorems 
+   Achieving Privacy-Preserving Vehicle Selection for Effective Content Dissemination in Smart Cities 
+   Accurate Distance Estimation for RSS Localization With Statistical Path Loss Exponent Model 
+   IRS-Aided Wireless Communication with Imperfect CSI: Is Amplitude Control Helpful or Not? 1-6 
+   Continuous Time Markov Chain Traffic Model for Urban Environments 
+   Mobility-Aware Content Caching and User Association for Ultra-Dense Mobile Edge Computing Networks 
+   Optimizing Energy in WiFi Direct Based Multi-hop D2D Networks 
+   NR V2X Communications at Millimeter Waves: An End-to-End Performance Evaluation 
+   Efficient Radio Resource Management with Coalition Games using NOMA in Small Cell Networks 
+   Trust in 5G Open RANs through Machine Learning: RF Fingerprinting on the POWDER PAWR Platform 
+   Error Bound Analysis towards Fingerprint-based Positioning System Involving Grid Size Information 
+   Negative Correlation Between Virus-Related Content Popularity and Epidemic Spread 
+   Joint Phase Noise Estimation and Decoding in OFDM-IM 
+   Performance Analysis for Multi-Antenna Small Cell Networks with Clustered Dynamic TDD 
+   Energy Efficiency Optimization in IRS-Enhanced mmWave Systems with Lens Antenna Array 
+   Location Information Aided Multiple Intelligent Reflecting Surface Systems 
+   Improving LoRa Scalability by a Recursive Reuse of Demodulators 
+   Computation-Aided Adaptive Codebook Design for Millimeter Wave Massive MIMO 
+   Optimal Throughput Allocation in Air-to-Ground Networks 
+   Bring Intelligence among Edges: A Blockchain-Assisted Edge Intelligence Approach 
+   CIDER: A Low Overhead Approach to Privacy Aware Client-side Deduplication 
+   Capacity Enhancement for Irregular Reconfigurable Intelligent Surface-Aided Wireless Communications 
+   Deep Transfer Learning-Assisted Signal Detection for Ambient Backscatter Communications 
+   Web Usage Prediction and Recommendation Based on Web Session Graph Embedded Analysis 
+   Vulnerability Analysis for Network Connectivity: A Prioritizing Critical Area Approach 
+   NIMA (Network Impact Modeling and Analysis): A QoS Perspective 
+ 

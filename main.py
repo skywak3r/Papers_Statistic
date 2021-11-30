@@ -8,7 +8,23 @@ from tqdm import tqdm
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+import os
 
+
+
+def logging(title,code):
+    flag = os.path.isdir("logDir")
+    if flag == True:
+        sys.path.append("../logDir")
+
+        f = open("logDir/%s.txt"%title , "a",encoding='utf-8')
+        f.write("  %s \n " % (code))
+    else:
+        os.mkdir("logDir")
+        sys.path.append("../logDir")
+
+        f = open("logDir/%s.txt"%title , "a",encoding='utf-8')
+        f.write("%s   \n " % (code))
 
 
 def getTitle():
@@ -16,6 +32,7 @@ def getTitle():
     globecom's get title
     :return:
     """
+    name = 'GLOBECOM2020'
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
@@ -52,7 +69,47 @@ def getTitle():
         title_list.append(title_name)
     return title_list
 
+def getTitleNIPS2021():
+    url = 'https://neurips.cc/Conferences/2021/Schedule?type=Poster'
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    wd = webdriver.Chrome(executable_path=r"D:\install_dir\code\webTest\chromedriver.exe",
+                          chrome_options=chrome_options)
+    wd.get(url)
+    meta_list = []
+    wait_time = 0.5
+    max_try = 1000
+
+    title_list = []
+    total = 2337
+
+    title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div[3]/div[6]/div/div[3]" )[0].text
+    # title_name = wd.find_elements_by_class_name("maincardBody" )[8].text
+
+
+    # print(title_name)
+    # exit(0)
+
+
+    for i in tqdm(range(5, total)):
+        # title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div/div/div[3]/div[%i]/div/div[3]" % i)[0].text.split("\n")[1]
+        title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div[3]/div[%i]/div/div[3]" % i)[0].text
+        # title_name = wd.find_elements_by_class_name("maincardBody" )[0].text
+
+        # print(title_name)
+
+
+        # print(i)
+        # title_name = title_name.split('.')[0]
+        title_list.append(title_name)
+    return title_list
+
+
+
 def getTitleICML():
+    name = 'ICML2021'
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
@@ -70,6 +127,7 @@ def getTitleICML():
     total = 1186
     element_span = wd.find_elements_by_xpath("/html/body/div[2]/ul/li[3]/cite")
     path = '/html/body/div[5]/div/main/div/div/div[3]/div[1186]/div/div[3]'
+
     for i in tqdm(range(4, total)):
         # title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div/div/div[3]/div[%i]/div/div[3]" % i)[0].text.split("\n")[1]
         title_name = wd.find_elements_by_xpath("/html/body/div[5]/div/main/div/div/div[3]/div[%i]/div/div[3]" % i)[0].text
@@ -89,6 +147,7 @@ url4 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-progr
 url5 = 'https://globecom2021.ieee-globecom.org/program/technical-symposium-program/symposia-saturday-11-december'
 
 def getTitleGlobeCom2021(url):
+    name = 'GLOBECOM2021'
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
@@ -105,17 +164,17 @@ def getTitleGlobeCom2021(url):
     return title_list
 
 
-title_list1 = getTitleGlobeCom2021(url1)
-title_list2 = getTitleGlobeCom2021(url2)
-title_list3 = getTitleGlobeCom2021(url3)
-title_list4 = getTitleGlobeCom2021(url4)
-title_list5 = getTitleGlobeCom2021(url5)
+# title_list1 = getTitleGlobeCom2021(url1)
+# title_list2 = getTitleGlobeCom2021(url2)
+# title_list3 = getTitleGlobeCom2021(url3)
+# title_list4 = getTitleGlobeCom2021(url4)
+# title_list5 = getTitleGlobeCom2021(url5)
+#
+#
+# title_list = title_list1+title_list2+title_list3+title_list4+title_list5
+#
 
-
-title_list = title_list1+title_list2+title_list3+title_list4+title_list5
-
-
-
+title_list = getTitleNIPS2021()
 
 # title_list = getTitleICML()
 
@@ -140,7 +199,7 @@ keyword_list = []
 for i, title in enumerate(title_list):
 
     print(i, "th paper's title : ", title)
-
+    logging('NIPS2021',title)
     word_list = title.split(" ")
     word_list = list(set(word_list))
 

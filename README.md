@@ -17,5 +17,11 @@ This is a statistic of keyword of GLOBECOM 2020.
 
 [Rename rep](https://www.coonote.com/git-note/git-rename-github-push.html)
 
+## NIPS 2021
+![Figure_5](figure/NIPS2021_Figure_1.png)
+![Figure_5](figure/NIPS2021_Figure_2.png)
+
+
+
 Inspired by [NeurIPS-2020-Paper-Statistics](https://github.com/hoya012/NeurIPS-2020-Paper-Statistics)
 
