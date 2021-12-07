@@ -63,11 +63,7 @@ def getTitle():
     # print(titles[1])
     #
 
-    for i in tqdm(range(2, total)):
-        title_name = wd.find_elements_by_xpath("/html/body/div[2]/ul/li[%i]/cite" % i)[0].text.split("\n")[1]
-        title_name = title_name.split('.')[0]
-        title_list.append(title_name)
-    return title_list
+
 
 def getTitleNIPS2021():
     url = 'https://neurips.cc/Conferences/2021/Schedule?type=Poster'
@@ -164,6 +160,57 @@ def getTitleGlobeCom2021(url):
     return title_list
 
 
+
+
+def getTitleWWW2021():
+    url = 'https://dblp.org/db/conf/www/www2021.html'
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    wd = webdriver.Chrome(executable_path=r"D:\install_dir\code\webTest\chromedriver.exe",
+                          chrome_options=chrome_options)
+    wd.get(url)
+    title_list = []
+
+    element_span = wd.find_elements_by_class_name("title")
+    total = len(element_span)
+    for i in tqdm(range(total)):
+        title_name = wd.find_elements_by_class_name("title")[i].text
+        # print(title_name)
+        # exit()
+        # title_name = wd.find_elements_by_xpath("/html/body/div[2]/ul/li[%i]/cite" % i)[0].text.split("\n")[1]
+        title_name = title_name.split('.')[0]
+        title_list.append(title_name)
+    return title_list
+
+
+
+
+def getTitleICC2021():
+    url = 'https://dblp.org/db/conf/icc/icc2021.html'
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    wd = webdriver.Chrome(executable_path=r"D:\install_dir\code\webTest\chromedriver.exe",
+                          chrome_options=chrome_options)
+    wd.get(url)
+    title_list =[]
+    #
+    # tmp =len( wd.find_elements_by_class_name("title"))
+    # print(tmp )
+    #
+    # exit()
+    total = 759
+    for i in tqdm(range(total)):
+        title_name = wd.find_elements_by_class_name("title")[i].text
+        # print(title_name)
+        # exit()
+        # title_name = wd.find_elements_by_xpath("/html/body/div[2]/ul/li[%i]/cite" % i)[0].text.split("\n")[1]
+        title_name = title_name.split('.')[0]
+        title_list.append(title_name)
+    return title_list
 # title_list1 = getTitleGlobeCom2021(url1)
 # title_list2 = getTitleGlobeCom2021(url2)
 # title_list3 = getTitleGlobeCom2021(url3)
@@ -174,8 +221,9 @@ def getTitleGlobeCom2021(url):
 # title_list = title_list1+title_list2+title_list3+title_list4+title_list5
 #
 
-title_list = getTitleNIPS2021()
+# title_list = getTitleNIPS2021()
 
+title_list = getTitleWWW2021()
 # title_list = getTitleICML()
 
 # title_list = getTitle()
@@ -199,7 +247,7 @@ keyword_list = []
 for i, title in enumerate(title_list):
 
     print(i, "th paper's title : ", title)
-    logging('NIPS2021',title)
+    logging('www2021',title)
     word_list = title.split(" ")
     word_list = list(set(word_list))
 
